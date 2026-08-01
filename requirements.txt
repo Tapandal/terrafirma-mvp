@@ -4,4 +4,4 @@ geopy>=2.4
 # Leave the line below commented out while you are running the free demo version.
 # When you connect real satellite data (Part 3 of GO_LIVE_GUIDE.md), delete the
 # "#" and the space at the start of the next line, then commit the change.
-# earthengine-api>=1.4
+earthengine-api>=1.4
